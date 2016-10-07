@@ -6,7 +6,9 @@
 2. Construct Array
    x = np.array([2,3,1,0])
 3. Reshape Array
-   x = np.rashape(x,(3,2))
+   x = np.reshape(x,(3,2))
+4. Transpose an array
+   
 4. numpy.linalg.inv(a)[source]
-
-h. numpy.linalg.lstsq
+   numpy.linalg.lstsq
+   numpy.linalg.svd  #Singular value decomposition
