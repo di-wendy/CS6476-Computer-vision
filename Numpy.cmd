@@ -12,3 +12,5 @@
 4. numpy.linalg.inv(a)[source]
    numpy.linalg.lstsq
    numpy.linalg.svd  #Singular value decomposition
+
+5. numpy.linalg.eig
