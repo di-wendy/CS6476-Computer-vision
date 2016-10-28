@@ -9,3 +9,7 @@
 3. np.argwhere(a>3)
 4. http://docs.opencv.org/2.4/modules/imgproc/doc/miscellaneous_transformations.html  Color conversion
 
+###RANSAC
+
+
+
