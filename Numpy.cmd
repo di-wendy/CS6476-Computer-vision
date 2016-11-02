@@ -9,8 +9,8 @@
    x = np.reshape(x,(3,2))
 4. Transpose an array
    
-4. numpy.linalg.inv(a)[source]
+5. numpy.linalg.inv(a)[source]
    numpy.linalg.lstsq
    numpy.linalg.svd  #Singular value decomposition
 
-5. numpy.linalg.eig
+6. numpy.linalg.eig
